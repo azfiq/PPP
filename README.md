@@ -1,6 +1,6 @@
 # Project Name
 
-Hello World on  Programing Priciple and Practice (PPP)
+Hello World on  Programming Principles and Practice 3rd Edition (PPP)
 
 ## Installation
 
