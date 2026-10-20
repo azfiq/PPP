@@ -1,12 +1,2 @@
-CC=clang++
-SRC=./src/
-INC=./include/
-
 make:
-	$(CC) $(SRC)*.cpp -I$(INC) -o prog 
-
-debug:
-	$(CC) -g $(SRC)*.cpp -I$(INC) -o prog
-
-clean:
-	 rm prog
+   g++ -std=c++20 main.cpp -o prog
